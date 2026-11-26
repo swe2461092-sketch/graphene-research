@@ -1,0 +1,52 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "file": "scf_ecut_30.in",
+      "ecutwfc": 30,
+      "status": "NOT_RUN"
+    },
+    {
+      "id": 2,
+      "file": "scf_ecut_40.in",
+      "ecutwfc": 40,
+      "status": "NOT_RUN"
+    },
+    {
+      "id": 3,
+      "file": "scf_ecut_50.in",
+      "ecutwfc": 50,
+      "status": "NOT_RUN"
+    },
+    {
+      "id": 4,
+      "file": "scf_ecut_60.in",
+      "ecutwfc": 60,
+      "status": "NOT_RUN"
+    },
+    {
+      "id": 5,
+      "file": "scf_ecut_70.in",
+      "ecutwfc": 70,
+      "status": "NOT_RUN"
+    },
+    {
+      "id": 6,
+      "file": "scf_ecut_80.in",
+      "ecutwfc": 80,
+      "status": "NOT_RUN"
+    },
+    {
+      "id": 7,
+      "file": "scf_ecut_90.in",
+      "ecutwfc": 90,
+      "status": "NOT_RUN"
+    },
+    {
+      "id": 8,
+      "file": "scf_ecut_100.in",
+      "ecutwfc": 100,
+      "status": "NOT_RUN"
+    }
+  ]
+}

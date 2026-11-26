@@ -1,0 +1,19 @@
+# Downloaded reference repositories
+references/
+
+# Large computational data
+runs/
+
+# Python caches
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Credentials and local environment
+.env
+.env.*
+!.env.example
+*.key
+
+# macOS
+.DS_Store
